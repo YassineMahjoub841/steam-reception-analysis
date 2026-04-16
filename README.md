@@ -1,6 +1,6 @@
 # What Do Steam Players Actually Love?
 
-A data analysis of the top 1,000 Steam games by reception, playtime, and value — plus an interactive Streamlit dashboard for exploring the results.
+A data analysis of the top 1,000 Steam games by reception, playtime, and value. Plus an interactive Streamlit dashboard for exploring the results.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-red)
@@ -10,7 +10,7 @@ A data analysis of the top 1,000 Steam games by reception, playtime, and value �
 
 1. What does the review-score landscape look like across Steam's most-played games?
 2. Does price predict how well a game is received?
-3. Does playtime track reception — do beloved games keep players longer?
+3. Does playtime track reception ?
 4. Which genres are Steam players kindest to?
 5. Which games deliver the most hours per dollar?
 6. Can we cluster the top 1,000 into recognisable **archetypes** (lifestyle giants, cult indie darlings, controversial megahits, etc.)?

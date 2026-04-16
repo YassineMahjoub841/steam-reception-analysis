@@ -1,0 +1,17 @@
+[project]
+name = "steam-reception-analysis"
+version = "0.1.0"
+description = "What do Steam players actually love? A data analysis of the top 1,000 games by reception, playtime, and value."
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "requests>=2.31",
+    "jupyter>=1.1",
+    "nbconvert>=7.16",
+    "scikit-learn>=1.4",
+    "streamlit>=1.36",
+    "plotly>=5.22",
+]
